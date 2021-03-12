@@ -1,0 +1,10 @@
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\obj\Debug\QuiddlerConsoleClient.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\bin\Debug\QuiddlerConsoleClient.exe.config
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\bin\Debug\QuiddlerConsoleClient.exe
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\bin\Debug\QuiddlerConsoleClient.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\bin\Debug\QuiddlerLibrary.dll
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\bin\Debug\QuiddlerLibrary.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\obj\Debug\QuiddlerConsoleClient.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\obj\Debug\QuiddlerConsoleClient.exe
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\obj\Debug\QuiddlerConsoleClient.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerConsoleClient\obj\Debug\QuiddlerConsoleClient.csproj.ResolveComReference.cache

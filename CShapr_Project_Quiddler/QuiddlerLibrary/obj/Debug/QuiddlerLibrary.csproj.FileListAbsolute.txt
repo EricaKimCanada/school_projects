@@ -1,0 +1,21 @@
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+C:\Users\Owner\Desktop\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Users\Owner\Desktop\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Users\Owner\Desktop\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Users\Owner\Desktop\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+H:\Updated Quiddler\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+H:\Updated Quiddler\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+H:\Updated Quiddler\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+H:\Updated Quiddler\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+H:\Updated Quiddler\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.tlb
+C:\Fanshawe\CPA25\INFO5060-NET\Project\Project1\Project1_Quiddler\Project1_Quiddler\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csprojAssemblyReference.cache

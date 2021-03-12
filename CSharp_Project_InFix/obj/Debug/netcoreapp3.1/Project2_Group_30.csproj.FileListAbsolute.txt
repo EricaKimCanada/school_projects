@@ -1,0 +1,35 @@
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.exe
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.deps.json
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.json
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.dev.json
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.dll
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.pdb
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.csprojAssemblyReference.cache
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfoInputs.cache
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfo.cs
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.dll
+C:\Users\mintm\Desktop\CPA2\5th 2020 Winter\INFO-5101 - C# Advanced Topics\Week 12 - Project 2\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.pdb
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.exe
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.deps.json
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.json
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.dev.json
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.dll
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.pdb
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.csprojAssemblyReference.cache
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.csproj.CoreCompileInputs.cache
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfoInputs.cache
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfo.cs
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.dll
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.pdb
+E:\$programming\semester5\INFO 5101 - advanced C#\project 2\Project 2-W20\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.genruntimeconfig.cache
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.exe
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.deps.json
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.json
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.runtimeconfig.dev.json
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.dll
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\bin\Debug\netcoreapp3.1\Project2_Group_30.pdb
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.csprojAssemblyReference.cache
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfoInputs.cache
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.AssemblyInfo.cs
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.dll
+C:\Users\mintm\Downloads\Project2_Group_30\Project2_Group_30\obj\Debug\netcoreapp3.1\Project2_Group_30.pdb
