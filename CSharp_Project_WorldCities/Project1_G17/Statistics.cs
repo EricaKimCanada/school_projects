@@ -178,7 +178,7 @@ namespace Project1_G17
             // Set variables
             string distance = "";
             string url = @"https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=" + latOne + "," + lngOne + 
-                          "&destinations=" + latTwo + "%2C" + lngTwo + "&key=AIzaSyBUwF1ixY1V7TlASXmSSZc2wz4m4g_IJp4";
+                          "&destinations=" + latTwo + "%2C" + lngTwo + "&key=";
 
             // Get info from Google API
             WebRequest request = WebRequest.Create(url);
